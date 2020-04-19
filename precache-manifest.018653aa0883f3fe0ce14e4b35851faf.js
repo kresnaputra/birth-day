@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/birth-day/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/birth-day/serve.json"
-  },
-  {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/birth-day/expo-service-worker.js"
+  },
+  {
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/birth-day/serve.json"
   },
   {
     "revision": "afd5733ac789ab1795f1ed7a26e1ecd3",
